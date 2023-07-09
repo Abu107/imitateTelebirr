@@ -1,0 +1,19 @@
+{
+  "welcome": "مرحبًا بك في تطبيق Telebirr Super",
+  "all_in_one": "الكل في واحد",
+  "login":"الدخول",
+  "mobile_label":"رقم الهاتف المحمول",
+  "enter_mobile_label":"أدخل رقم الهاتف المتحرك",
+  "next":"التالي",
+  "dont_have_account":"ليس لديك حساب؟ ",
+  "create_account":"انشاء حساب جديد",
+  "help": "እገዛ",
+  "copyright": " @ 2023 Ethio Telecom. جميع الحقوق محفوظة إصدار 1.0.0",
+  "contact_us": "Contact us",
+  "contact_center": "Telebirr Contact Center",
+  "web": "Ethio telecom website",
+  "social_media": "Social Media",
+  "quick_create": "Quick create account",
+  "self_create": "Self create account",
+  "ethio_autofill": "(Ethio telecom will auto-fill your profile)"
+}
