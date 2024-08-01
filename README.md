@@ -1,4 +1,4 @@
-# imitate_telebirr
+# telebirr_clone
 
 A new Flutter project.
 
